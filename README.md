@@ -31,8 +31,8 @@ Installation and Setup
 
 1. Clone the Repository
 
-git clone https://github.com/ChahakPatidar11/AgriTech---Empowering-farmers-through-digital-technology..git
-cd AgriTech---Empowering-farmers-through-digital-technology.
+git clone https://github.com/ChahakPatidar11/AgriTech---Empowering-farmers-through-digital-technology.git
+cd AgriTech---Empowering-farmers-through-digital-technology
 
 2. Start the Backend
 
