@@ -22,9 +22,10 @@ Technologies Used
 Project Structure
 
 AgriTech/
-├── Frontend/
-├── Backend/
-└── README.md
+
+1.Frontend/
+2.Backend/
+3.README.md
 
 Installation and Setup
 
